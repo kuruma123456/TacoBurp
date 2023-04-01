@@ -1,3 +1,6 @@
 # TacoBurp
 # 1
-これはhttps://scratch.mit.edu/projects/478790208/のWeb版です。
+これはgriffpatchさんが作ったTaco Burp CloudというゲームのWeb版です。
+
+#2
+TacoBurpは次で遊べます。https://scratch.mit.edu/projects/478790208
